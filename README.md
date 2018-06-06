@@ -1,7 +1,7 @@
 # QuoraQuestionSimilarity
 Classification of Quora Questions as duplicate or non-duplicate using XGBoost Classifier <br>
 
-To run this code, you will need: 
+To run this code, you will need: <br>
 Numpy - Version: 1.14.3 <br>
 Pandas - Version: 0.23.0 <br>
 Seaborn - Version: 0.8.1 <br>
